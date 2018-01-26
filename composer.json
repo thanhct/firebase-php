@@ -2,7 +2,7 @@
     "name": "thanhct/firebase-php",
     "description": "Firebase Admin SDK",
     "keywords": ["firebase", "google", "sdk", "api", "database"],
-    "homepage": "https://github.com/kreait/firebase-php",
+    "homepage": "https://github.com/thanhct/firebase-php",
     "license": "MIT",
     "authors": [
         {
